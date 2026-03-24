@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @kevtech and I am an international mathematics teacher
-- 👀 I’m interested in data analysis using R and ggplot with dplyr
-- 🌱 I’m currently learning SQL for data analysis.
+- 👋 Hi, I’m @kevtech, and I am an international mathematics teacher.
+- 👀 I’m interested in learning Linux and networking.
+- 🌱 I’m currently learning topics in the CCNA curriculum
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
